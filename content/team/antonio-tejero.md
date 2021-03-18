@@ -1,7 +1,7 @@
 ---
 title: Antonio Tejero
 date: '2021-03-18'
-jobtitle: 
+jobtitle: Agente de cambio
 linkedinurl: lorem-ipsum
 Twitterhandle: lorem-ipsum
 draft: false
