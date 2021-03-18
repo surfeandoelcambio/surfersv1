@@ -7,7 +7,7 @@ Twitterhandle: https://twitter.com/ATejero8
 draft: false
 featured: false
 weight: 0
-promoted: false
+promoted: true
 ---
 ## Lorem ipsum
 
