@@ -1,7 +1,7 @@
 ---
 title: Antonio Tejero
 date: '2021-03-18'
-jobtitle: lorem-ipsum
+jobtitle: 
 linkedinurl: lorem-ipsum
 Twitterhandle: lorem-ipsum
 draft: false
