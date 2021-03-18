@@ -5,7 +5,7 @@ jobtitle: Agente de cambio
 linkedinurl: https://www.linkedin.com/in/antonio-tejero-0900271a/
 Twitterhandle: https://twitter.com/ATejero8
 draft: false
-image: "images/team/nonsap-visuals-kMJp7620W6U-unsplash.jpg"
+image: "images/team/nonh.jpg"
 featured: false
 weight: 0
 promoted: true
