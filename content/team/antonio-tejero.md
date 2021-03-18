@@ -2,7 +2,7 @@
 title: Antonio Tejero
 date: '2021-03-18'
 jobtitle: Agente de cambio
-linkedinurl: lorem-ipsum
+linkedinurl: https://www.linkedin.com/in/antonio-tejero-0900271a/
 Twitterhandle: lorem-ipsum
 draft: false
 featured: false
