@@ -5,4 +5,4 @@ featured: true
 draft: false
 weight: 2
 ---
-Apostamos por **potenciar el talento** de cada uno en beneficio de la organización
+para **juntos** construir la solución que mejor se adapta a ti
