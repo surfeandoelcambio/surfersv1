@@ -5,4 +5,4 @@ featured: true
 draft: false
 weight: 5
 ---
-sin miedo al fallo por experimentar para aprender de ello y mejorar.
+no nos duele experimentar. Probemos si una solución funciona y si no, aprendamos de ello y mejoremos.
