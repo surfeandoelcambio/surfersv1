@@ -5,4 +5,4 @@ featured: true
 draft: false
 weight: 4
 ---
-te acompañamos en el camino de la transformación para alcanzar tus metas.
+te acompañamos y enseñamos en el camino de la transformación para alcanzar tus metas.
