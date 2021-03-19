@@ -5,4 +5,4 @@ featured: true
 draft: false
 weight: 3
 ---
-para enriquecernos de otros puntos de vista y construir una solución de éxito conjunta.
+para enriquecernos los unos a los otros y construir una solución de éxito conjunta.
