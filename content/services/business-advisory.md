@@ -5,4 +5,4 @@ featured: true
 draft: false
 weight: 2
 ---
-para **juntos** construir la solución que mejor se adapta a ti
+para **juntos** construir la solución que mejor se adapta a ti.
