@@ -5,4 +5,4 @@ draft: false
 featured: true
 weight: 1
 ---
-en beneficio tuyo propio y de la organización.
+en beneficio tuyo y de la organización.
