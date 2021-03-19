@@ -5,7 +5,4 @@ draft: false
 featured: true
 weight: 1
 ---
-Apostamos por **potenciar el talento** de cada uno en beneficio de la organización.
-
-
-
+en beneficio tuyo propio y de la organización.
