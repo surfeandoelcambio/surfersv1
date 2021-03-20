@@ -5,4 +5,4 @@ featured: true
 draft: false
 weight: 5
 ---
-no nos duele experimentar. Probemos si una solución funciona y si no, aprendamos de ello y mejoremos.
+innovemos y probemos. No nos duele experimentar, si una solución no funciona aprendamos de ello y mejoremos.
