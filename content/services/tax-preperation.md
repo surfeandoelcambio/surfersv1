@@ -1,5 +1,5 @@
 ---
-title: Realismo frente a personas y cambio
+title: Realismo
 date: '2018-11-18T12:33:46+10:00'
 draft: false
 featured: true
