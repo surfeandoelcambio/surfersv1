@@ -44,11 +44,6 @@ name = "Team"
 url = "/team/"
 weight = 2
 
-[[menu.main]]
-name = "About"
-url = "/about/"
-weight = 3
-
 [[menu.footer]]
 name = "Home"
 url = "/"
