@@ -48,6 +48,7 @@ weight = 2
 name = "Mindset"
 url = "/mindset/"
 weight = 3
+
 [[menu.main]]
 name = "Mindset"
 url = "/mindset/"
