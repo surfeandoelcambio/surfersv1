@@ -45,8 +45,8 @@ url = "/team/"
 weight = 2
 
 [[menu.main]]
-name = "Team"
-url = "/team/"
+name = "Mindset"
+url = "/mindset/"
 weight = 3
 
 [[menu.main]]
