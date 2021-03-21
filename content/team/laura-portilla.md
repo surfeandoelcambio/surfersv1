@@ -1,13 +1,13 @@
 ---
-title: Antonio Tejero
-date: '2021-03-18'
+title: Laura Portilla 
+date: '2021-03-21'
 jobtitle: Agente de cambio
-linkedinurl: https://www.linkedin.com/in/antonio-tejero-0900271a/
-Twitterhandle: /ATejero8
+linkedinurl: https://www.linkedin.com/in/laura-portilla-8b31b45/
+Twitterhandle: /LurishB
 draft: false
-image: "images/team/Teje.jpeg"
+image: "images/team/Laura.jpeg"
 featured: false
-weight: 1
+weight: 0
 promoted: true
 ---
 ## Lorem ipsum
