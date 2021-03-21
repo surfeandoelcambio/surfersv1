@@ -44,6 +44,11 @@ name = "Team"
 url = "/team/"
 weight = 2
 
+[[menu.main]]
+name = "Mindset"
+url = "/mindset/"
+weight = 3
+
 [[menu.footer]]
 name = "Home"
 url = "/"
