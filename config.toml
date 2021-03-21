@@ -55,6 +55,11 @@ url = "/contact/"
 weight = 4
 
 [[menu.main]]
+name = "Contact"
+url = "/contact/"
+weight = 4
+
+[[menu.main]]
 identifier = "lorem-ipsum"
 name = "lorem-ipsum"
 url = "lorem-ipsum"
