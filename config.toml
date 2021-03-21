@@ -51,7 +51,7 @@ weight = 3
 
 [[menu.main]]
 name = "Contact"
-url = "/mindset/"
+url = "/contact/"
 weight = 3
 
 [[menu.footer]]
