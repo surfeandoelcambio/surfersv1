@@ -22,4 +22,4 @@ Generamos una cultura donde:
 
 *   Tu satisfacción es la nuestra.
 
-*   El mundo VUCA nos lleva a una transformación constante: tú decides si la consideras el core del negocio o la quieres externalizar.
+*   Te enseñamos que el mundo VUCA nos lleva a una transformación constante: tú decides si la consideras el core del negocio o la quieres externalizar.
