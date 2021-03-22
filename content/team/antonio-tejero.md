@@ -8,7 +8,7 @@ draft: false
 image: "images/team/Teje.jpeg"
 featured: false
 weight: 1
-promoted: true
+promoted: false
 ---
 ## Lorem ipsum
 
