@@ -2,7 +2,7 @@
 title: Ana Buigues
 date: '2021-03-18'
 jobtitle:
-linkedinurl: https://www.linkedin.com/in/antonio-tejero-0900271a/
+linkedinurl: https://www.linkedin.com/in/anabuigues/
 Twitterhandle:
 draft: false
 image: "images/team/Teje.jpeg"
