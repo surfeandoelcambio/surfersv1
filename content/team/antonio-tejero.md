@@ -10,9 +10,5 @@ featured: false
 weight: 1
 promoted: true
 ---
-## Lorem ipsum
+Experto en gestión de equipos y transformación organizacional. Acompaño a los equipos en la gestión del trabajo y el desarrollo de sus productos y servicios.
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
