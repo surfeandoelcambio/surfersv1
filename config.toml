@@ -3,7 +3,7 @@ languageCode = "es-es"
 title = "Surfeando el cambio"
 
 [params]
-google_analytics_id = ""
+google_analytics_id = "G-VH6EMBMDLR"
 google_tag_manager_id = ""
 
   [params.homepage]
