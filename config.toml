@@ -49,7 +49,7 @@ weight = 3
 [[menu.main]]
 name = "Contacto"
 url = "/contact/"
-weight = 5
+weight = 4
 
 [[menu.footer]]
 name = "Home"
