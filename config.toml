@@ -50,7 +50,7 @@ url = "/mindset/"
 weight = 3
 
 [[menu.main]]
-name = "About"
+name = "Sobre nosotros"
 url = "/about/"
 weight = 4
 
