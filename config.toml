@@ -47,11 +47,6 @@ url = "/mindset/"
 weight = 3
 
 [[menu.main]]
-name = "Sobre nosotros"
-url = "/about/"
-weight = 4
-
-[[menu.main]]
 name = "Contacto"
 url = "/contact/"
 weight = 5
