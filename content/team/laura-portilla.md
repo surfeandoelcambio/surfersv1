@@ -8,6 +8,6 @@ draft: false
 image: "images/team/Laura.jpeg"
 featured: false
 weight: 3
-promoted: true
+promoted: false
 ---
 Experta en transformación organizacional y gestión de equipos. Escucho y empatizo con las experiencias e inquietudes de las personas sacando lo mejor de ellas. Enfoque pragmático y experimental en entornos tecnológicos.
