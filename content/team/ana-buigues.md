@@ -10,4 +10,4 @@ featured: false
 weight: 1
 promoted: true
 ---
-Experto en gestión de equipos y transformación organizacional. Acompaño a los equipos en la gestión del trabajo y el desarrollo de sus productos y servicios.
+Experta en innovación organizacional y tecnológica. Acompaño como agente del cambio a equipos localizados y deslocalizados. Lidero comunidades de desarrollo de software en diferentes áreas tecnológicas y países.
