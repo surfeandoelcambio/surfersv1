@@ -10,9 +10,4 @@ featured: false
 weight: 0
 promoted: true
 ---
-## Lorem ipsum
-
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
+Experta en transformación organizacional y gestión de equipos. Escucho y empatizo con las experiencias e inquietudes de las personas sacando lo mejor de ellas. Enfoque pragmático y experimental en entornos tecnológicos.
