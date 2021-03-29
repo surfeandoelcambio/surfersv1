@@ -8,6 +8,6 @@ draft: false
 image: "images/team/Ana.jpeg"
 featured: false
 weight: 1
-promoted: true
+promoted: false
 ---
 Experta en innovación organizacional y tecnológica. Acompaño como agente del cambio a equipos localizados y deslocalizados. Lidero comunidades de desarrollo de software en diferentes áreas tecnológicas y países.
