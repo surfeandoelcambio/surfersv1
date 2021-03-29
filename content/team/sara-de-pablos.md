@@ -5,7 +5,7 @@ jobtitle:
 linkedinurl: https://www.linkedin.com/in/saradepablos/
 Twitterhandle:
 draft: false
-image: "images/team/Ana.jpeg"
+image: "images/team/Sara.jpeg"
 featured: false
 weight: 1
 promoted: true
