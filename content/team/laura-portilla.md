@@ -1,7 +1,7 @@
 ---
 title: Laura Portilla 
 date: '2021-03-21'
-jobtitle: Agente de cambio
+jobtitle:
 linkedinurl: https://www.linkedin.com/in/laura-portilla-8b31b45/
 Twitterhandle: /LurishB
 draft: false
