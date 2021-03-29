@@ -1,3 +1,3 @@
 ---
-title: "Ups!, Page Not Found"
+title: "Ups!, Página no encontrada"
 ---
