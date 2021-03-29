@@ -7,7 +7,7 @@ Twitterhandle:
 draft: false
 image: "images/team/Teje.jpeg"
 featured: false
-weight: 1
+weight: 2
 promoted: true
 ---
 Experto en gestión de equipos y transformación organizacional. Acompaño a los equipos en la gestión del trabajo y el desarrollo de sus productos y servicios.
