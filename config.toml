@@ -29,7 +29,7 @@ google_tag_manager_id = ""
   meta_twitter_creator = "@surfeandoelcam1"
 
   [params.team]
-  summary_large_truncate = 120
+  summary_large_truncate = 240
 
 [[menu.main]]
 name = "¿Qué ofrecemos?"
