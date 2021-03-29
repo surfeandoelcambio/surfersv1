@@ -5,5 +5,3 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 # Surfeando el cambio
-
-Estamos en construcción
