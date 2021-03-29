@@ -5,7 +5,7 @@ jobtitle:
 linkedinurl: https://www.linkedin.com/in/anabuigues/
 Twitterhandle:
 draft: false
-image: "images/team/Teje.jpeg"
+image: "images/team/Ana.jpeg"
 featured: false
 weight: 1
 promoted: true
