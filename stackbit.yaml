@@ -306,7 +306,7 @@ models:
           - label: Footer Menu
             value: footer
       - type: model
-      name: seo
+        name: seo
       models:
         - stackbit_page_meta
   service:
