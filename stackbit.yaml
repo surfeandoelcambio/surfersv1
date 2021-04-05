@@ -329,6 +329,10 @@ models:
       - type: number
         name: weight
         label: Weight
+      - type: model
+      name: seo
+      models:
+        - stackbit_page_meta
   services:
     type: page
     label: Services Overview
