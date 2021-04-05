@@ -395,10 +395,6 @@ models:
       - type: boolean
         name: promoted
         label: Promoted
-      - type: model
-        name: seo
-        models:
-          - stackbit_page_meta
   teams:
     type: page
     label: Team Overview
@@ -422,7 +418,3 @@ models:
         name: intro_image_hide_on_mobile
         label: Intro Image Hide On Mobile
         description: Hide the intro image on mobile screen sizes
-      - type: model
-        name: seo
-        models:
-          - stackbit_page_meta
