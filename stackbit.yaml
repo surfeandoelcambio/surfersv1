@@ -395,6 +395,10 @@ models:
       - type: boolean
         name: promoted
         label: Promoted
+      - type: model
+        name: seo
+      models:
+        - stackbit_page_meta
   teams:
     type: page
     label: Team Overview
