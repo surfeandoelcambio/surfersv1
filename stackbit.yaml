@@ -133,12 +133,11 @@ models:
         models:
           - site_menus
       - type: data
-        label: Site Configuration
-        fields:
-          - type: string
-          name: domain
-          label: Domain      
-  
+    label: Site Configuration
+    fields:
+      - type: string
+        name: domain
+        label: Domain      
   site_menus:
     type: object
     label: Site Menus
