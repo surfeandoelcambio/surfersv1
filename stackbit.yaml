@@ -189,7 +189,6 @@ models:
             default: name
           - type: boolean
             name: relativeUrl
-
   site_menus:
     type: object
     label: Site Menus
