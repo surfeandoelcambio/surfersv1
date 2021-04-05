@@ -13,6 +13,7 @@ logicFields:
   - config.params.baseURL
   - service.weight
 models:
+
   config:
     type: config
     label: Config
