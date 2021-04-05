@@ -397,8 +397,8 @@ models:
         label: Promoted
       - type: model
         name: seo
-      models:
-        - stackbit_page_meta
+        models:
+          - stackbit_page_meta
   teams:
     type: page
     label: Team Overview
