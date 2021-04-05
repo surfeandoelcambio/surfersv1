@@ -132,12 +132,7 @@ models:
         label: Menus
         models:
           - site_menus
-      - type: data
-    label: Site Configuration
-    fields:
-      - type: string
-        name: domain
-        label: Domain      
+      - type:      
   site_menus:
     type: object
     label: Site Menus
