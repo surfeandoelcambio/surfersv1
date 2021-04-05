@@ -189,6 +189,7 @@ models:
             default: name
           - type: boolean
             name: relativeUrl
+
   site_menus:
     type: object
     label: Site Menus
@@ -266,10 +267,6 @@ models:
         name: intro_image_hide_on_mobile
         label: Hide the intro image on mobile
         description: Hide the intro image on mobile screen sizes
-      - type: model
-        name: seo
-        models:
-        - stackbit_page_meta
   pagenotfound:
     type: page
     label: '404'
