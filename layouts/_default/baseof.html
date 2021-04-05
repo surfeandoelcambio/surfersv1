@@ -2,7 +2,30 @@
 <html lang="en">
 
 <head>
-    
+    <title>
+  {{ if .Params.seo.title }}
+    {{ $.Params.seo.title }}
+  {{ else }}
+    {{ print $.Title " | " $.Site.Title }}
+  {{ end }}
+</title>
+<meta name="description" content="{{ .Params.seo.description | default "" }}" />
+{{ if .Params.seo.robots }}
+  <meta name="robots" content="{{ delimit $.Params.seo.robots " ," }}">
+{{ end }}
+{{ range $meta := .Params.seo.extra }}
+  {{ $key_name := $meta.keyName | default "name" }}
+  {{ if $meta.relativeUrl }}
+    {{ if $.Site.Params.domain }}
+      {{ $domain := $.Site.Params.domain }}
+      {{ $rel_url := $meta.value | relURL }}
+      {{ $full_url := print $domain $rel_url }}
+      <meta {{ $key_name }}="{{ $meta.name }}" content="{{ $full_url }}">
+    {{ end }}
+  {{ else }}
+    <meta {{ $key_name }}="{{ $meta.name }}" content="{{ $meta.value }}">
+  {{ end }}
+{{ end }}
     <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-VH6EMBMDLR"></script>
 <script>
