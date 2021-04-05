@@ -269,7 +269,7 @@ models:
       - type: model
         name: seo
         models:
-        - stackbit_page_meta
+          - stackbit_page_meta
   pagenotfound:
     type: page
     label: '404'
