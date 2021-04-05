@@ -305,6 +305,7 @@ models:
             value: main
           - label: Footer Menu
             value: footer
+      
   service:
     type: page
     label: Service
