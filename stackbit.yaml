@@ -267,8 +267,8 @@ models:
         label: Hide the intro image on mobile
         description: Hide the intro image on mobile screen sizes
       - type: model
-      name: seo
-      models:
+        name: seo
+        models:
         - stackbit_page_meta
   pagenotfound:
     type: page
