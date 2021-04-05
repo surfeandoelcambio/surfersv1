@@ -132,6 +132,7 @@ models:
         label: Menus
         models:
           - site_menus
+          
   site_menus:
     type: object
     label: Site Menus
