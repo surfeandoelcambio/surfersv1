@@ -136,8 +136,8 @@ models:
         label: Site Configuration
         fields:
           - type: string
-        name: domain
-        label: Domain      
+          name: domain
+          label: Domain      
   site_menus:
     type: object
     label: Site Menus
