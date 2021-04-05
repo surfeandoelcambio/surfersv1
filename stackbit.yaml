@@ -269,7 +269,7 @@ models:
       - type: model
         name: seo
         models:
-          - stackbit_page_meta
+        - stackbit_page_meta
   pagenotfound:
     type: page
     label: '404'
@@ -305,10 +305,6 @@ models:
             value: main
           - label: Footer Menu
             value: footer
-      - type: model
-        name: seo
-        models:
-          - stackbit_page_meta
   service:
     type: page
     label: Service
@@ -329,7 +325,6 @@ models:
       - type: number
         name: weight
         label: Weight
-      
   services:
     type: page
     label: Services Overview
