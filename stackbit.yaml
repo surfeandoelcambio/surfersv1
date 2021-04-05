@@ -307,8 +307,8 @@ models:
             value: footer
       - type: model
         name: seo
-      models:
-        - stackbit_page_meta
+        models:
+          - stackbit_page_meta
   service:
     type: page
     label: Service
