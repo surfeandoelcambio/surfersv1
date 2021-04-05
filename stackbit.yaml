@@ -133,7 +133,7 @@ models:
         models:
           - site_menus
       - type: data
-label: Site Configuration
+        label: Site Configuration
     fields:
       - type: string
         name: domain
