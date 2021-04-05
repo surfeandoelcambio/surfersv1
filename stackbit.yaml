@@ -266,7 +266,7 @@ models:
         name: intro_image_hide_on_mobile
         label: Hide the intro image on mobile
         description: Hide the intro image on mobile screen sizes
-        - type: model
+      - type: model
       name: seo
       models:
         - stackbit_page_meta
